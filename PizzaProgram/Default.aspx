@@ -6,7 +6,7 @@
         <h1>
             <asp:Image ID="imgPizza" runat="server" ImageUrl="http://www.cicis.com/media/1138/pizza_trad_pepperoni.png" Height="200px" Width="300px" /><br />
 
-            Welcome to La Villa Pizzaria</h1>
+            Welcome to La Villa Pizzaria TESTING</h1>
         <p class="lead">Click
             <asp:HyperLink ID="hplToOrder" runat="server" Font-Bold="True" NavigateUrl="~/orderPizza.aspx">here</asp:HyperLink>
 &nbsp;to see menu and order. You can also call us at (520) 55P-IZZA. </p>
